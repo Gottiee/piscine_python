@@ -1,8 +1,4 @@
-def ft_filter():
-    print(filter.__doc__)
-
-def main():
-    ft_filter()
-
-if __name__ == "__main__":
-    main()
+def ft_filter(function, iterable: any):
+    if function:
+        return (item for item in iterable if function(item))
+    return (item for item in iterable if item)
