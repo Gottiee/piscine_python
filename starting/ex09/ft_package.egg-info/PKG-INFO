@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ft-package
+Version: 0.0.1
+Summary: A sample test package
+Author-email: eedy <eedy@42.fr>
+Project-URL: homepage, https://github.com/gottiee/ft_package
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Python Package Sample
+
+This is a simple example package create for a 42 project.
